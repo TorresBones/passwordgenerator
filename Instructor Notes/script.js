@@ -1,4 +1,5 @@
 // Assignment Code
+
 var generateBtn = document.querySelector("#generate");
 
 // create the function here
