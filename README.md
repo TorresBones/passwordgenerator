@@ -8,6 +8,10 @@ In this task I have been more challenged than ever throught this course, for ins
 
 To use this app created all you have to do is click on the red button that says "Generate Password" it will prompt different questions like how many characters you want your password to be and if you want any uppercase, lowercase, special character or number in your password after you finish answering these questions the app will generate your secure password.
 
+## Screen Captures
+
+![image](https://github.com/TorresBones/passwordgenerator/assets/143949132/af4b2f55-ef3a-4f23-b4a7-e6dda7446e86)
+
 ## License
 
 MIT License
