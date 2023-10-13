@@ -2,11 +2,11 @@
 
 ## Description
 
-In this task I have been more challenged than ever throught this course, for instance I felt uncapable to do it, until I believe in me and my capabilities and put them in action, I started working harder and harder until I finally became with the final product wich is satisfactory. Here I created a password generator for a company so the employers has a secure data for the employees.
+While doing this assignment, I was challenged more than ever. There was a moment I felt incapable. I had to shake off the negativity and believe in myself and my capabilities. Then I had to put them into action. I started working harder and harder until I finally was able to complete it. I had created a final product that I was happy with. Here I created a password generator for a company so that their employers had a way to secure data for their employees.
 
 ## Usage
 
-To use this app created all you have to do is click on the red button that says "Generate Password" it will prompt different questions like how many characters you want your password to be and if you want any uppercase, lowercase, special character or number in your password after you finish answering these questions the app will generate your secure password.
+To use this app I created, all you have to do is click on the red button that says "Generate Password". It will prompt the folllowing questions: How many characters you want your password to include uppercase, lowercase, special character or numbers in your password. After you finish answering these questions the app will generate your secured password.
 
 ## Screen Captures
 
